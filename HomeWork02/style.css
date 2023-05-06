@@ -1,0 +1,40 @@
+* {
+   margin: 0; /* внешний отступ */
+   padding: 0; /* внутренний отступ */
+   box-sizing: border-box;
+}
+h1 {
+   margin-left: 100px;
+   margin-top: 50px;
+}
+.list {
+   margin-left: 150px;
+   margin-top: 30px;
+   font-size: 20px;
+}
+ul {
+    list-style-type: disc;
+}
+h3 {
+   font-size: 28px;
+   margin-left: 100px;
+   margin: 30px 0 30px 100px;
+}
+.table {
+   margin-left: 100px;
+   width: 450px;
+}
+table, td, th {
+   border-collapse: collapse; 
+   border: 2px solid black; /* граница */
+   text-align: center;
+}
+td {
+   font-size: 24px;
+}
+th {
+   font-size: 28px;
+}
+img {
+   width: 50px; /* ширина картинки */
+}
