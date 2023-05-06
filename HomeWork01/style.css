@@ -1,0 +1,18 @@
+* {
+    margin: 0; /* внешний отступ */
+    padding: 0; /* внутренний отступ */
+}
+h1 {
+    color: #34495E;
+    margin-bottom: 20px;
+    padding: 21px
+    
+}
+p {
+    background-color: #34495E;
+    color: white;
+    border-radius: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding: 21px;
+}
